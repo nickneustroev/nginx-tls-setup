@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="380" viewBox="0 0 960 380" role="img" aria-labelledby="title desc">
+  <title id="title">Заглушка скриншота 2: сведения о сертификате</title>
+  <desc id="desc">Пример вывода openssl x509: subject и issuer равны CN app.example.test, срок действия с 12 октября 2026 до 12 октября 2027 года, SAN содержит DNS app.example.test.</desc>
+  <rect x="2" y="2" width="956" height="376" rx="12" fill="#f1f5f9" stroke="#64748b" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="480" y="52" fill="#0f172a" font-family="sans-serif" font-size="18" text-anchor="middle">СКРИНШОТ 2 · ЗАГЛУШКА</text>
+  <rect x="70" y="76" width="820" height="276" rx="8" fill="#ffffff" stroke="#94a3b8"/>
+  <g fill="#0f172a" font-family="Consolas, 'Courier New', monospace" font-size="19">
+    <text x="100" y="118">subject=CN = app.example.test</text>
+    <text x="100" y="156">issuer=CN = app.example.test</text>
+    <text x="100" y="194">notBefore=Oct 12 10:00:00 2026 GMT</text>
+    <text x="100" y="232">notAfter=Oct 12 10:00:00 2027 GMT</text>
+    <text x="100" y="270">X509v3 Subject Alternative Name:</text>
+    <text x="140" y="308">DNS:app.example.test</text>
+  </g>
+</svg>
