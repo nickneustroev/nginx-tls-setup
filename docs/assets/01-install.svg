@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Заглушка скриншота 1: установка Nginx</title>
+  <desc id="desc">Место для снимка терминала со статусом Nginx active (running) и его версией.</desc>
+  <rect x="2" y="2" width="956" height="256" rx="12" fill="#f1f5f9" stroke="#64748b" stroke-width="2" stroke-dasharray="8 6"/>
+  <g fill="#0f172a" font-family="sans-serif" text-anchor="middle">
+    <text x="480" y="80" font-size="18">СКРИНШОТ 1 · ЗАГЛУШКА</text>
+    <text x="480" y="130" font-size="26">Установка Nginx и проверка службы</text>
+    <text x="480" y="180" font-size="18">Ожидается: active (running), версия Nginx</text>
+  </g>
+</svg>
